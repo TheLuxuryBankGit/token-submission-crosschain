@@ -6,7 +6,7 @@ We will only take into consideration projects that
 
 In addition:
 
-- Only tokens from Ethereum, Binance Smart Chain or Polygon can be bridged to IoTeX at the moment.
+- Only tokens from Ethereum, Binance Smart Chain or Polygon can be bridged to TLChain Network at the moment.
 - The token icon should be small, square, but high resolution, ideally a vector/svg.
 - Make sure your website includes a detailed explanation of project and the token contract address.
 - No Profanity in token name, token description, etc.
