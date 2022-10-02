@@ -46,4 +46,4 @@ Please send a few test tokens ($1-$10 worth) to wallet:
 
 ETH, BSC, etc - ```0xabDe24Ef196C14190cB7D778eAC5B89BE38719d6```
 
-Solana - ```GfbziV7LQ8qBJd2YTg9TNgSYn4z4wgiwEqYwtVP6GEzw``` 
+
